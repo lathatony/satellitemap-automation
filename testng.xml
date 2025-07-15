@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Satellite Suite">
+  <test name="Satellite Tests">
+    <classes>
+      <class name="tests.SatelliteTests"/>
+    </classes>
+  </test>
+</suite>
